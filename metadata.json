@@ -1,7 +1,7 @@
 {
   "name": "SuccessNode",
-  "website": "",
+  "website": "https://app.uniswap.org/swap",
   "description": "",
-  "logo": "",
-  "twitter": ""
+  "logo": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png",
+  "twitter": "https://x.com/@eigenlayer"
 }
